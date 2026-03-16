@@ -72,5 +72,9 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
+Author 
+Akash R is a passionate Java developer and aspiring software engineer with a strong interest in Data Structures and Algorithms. He consistently practices coding problems on platforms like LeetCode and HackerRank to improve logical thinking and problem-solving skills. Through dedicated daily practice and continuous learning, he focuses on strengthening programming fundamentals and algorithmic knowledge. Akash is committed to building efficient solutions and growing as a software developer. 💻🚀
+
+
 
 
